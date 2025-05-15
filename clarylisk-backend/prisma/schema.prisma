@@ -1,0 +1,58 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+//ini buat tes local
+// datasource db {
+//   provider = "postgresql"
+//   url      = env("DATABASE_URL")
+// }
+
+//ini pas deploy
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  // directUrl = env("DIRECT_URL")
+}
+
+model user {
+  idUser      Int           @id @unique @default(autoincrement())
+  password    String
+  description String
+  rating      Int           @default(5)
+  username    String
+  image       photo[]
+  wallet      wallet[]
+  medsos      mediaSocial[]
+  role        String
+}
+
+model photo {
+  idImage   Int    @id @unique @default(autoincrement())
+  image     String
+  idUser    Int    @unique
+  userPhoto user   @relation(fields: [idUser], references: [idUser], onDelete: Cascade, onUpdate: Cascade)
+}
+
+model wallet {
+  idWallet     Int    @id @unique @default(autoincrement())
+  walletAdress String @unique
+  idUser       Int    @unique
+  userWallet   user   @relation(fields: [idUser], references: [idUser], onDelete: Cascade, onUpdate: Cascade)
+}
+
+model mediaSocial {
+  idMedsos  Int     @id @unique @default(autoincrement())
+  facebook  String?
+  twitter   String?
+  instagram String?
+  youtube   String?
+  idUser    Int     @unique
+  userMedia user    @relation(fields: [idUser], references: [idUser], onDelete: Cascade, onUpdate: Cascade)
+}
