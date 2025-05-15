@@ -27,7 +27,7 @@ When creators receive donations with gambling promotions, they often don't know 
 
 ## 🔗 Links
 - **Website:** [https://clarylisk.netlify.app/](https://clarylisk.netlify.app/)
-- **Documentation:** [Coming Soon]
+- **Documentation:** [https://bimajdiva.gitbook.io/clarylisk](https://bimajdiva.gitbook.io/clarylisk)
 - **Organization:** [Coming Soon]
 - **Video Demonstration:** [Coming Soon]
 - **Presentation Slides:** [Coming Soon]
