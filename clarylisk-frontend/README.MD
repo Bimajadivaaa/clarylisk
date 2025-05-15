@@ -1,7 +1,5 @@
 # 🌈 Clarylisk Frontend
 
-![Clarylisk Banner](https://github.com/user-attachments/assets/828c3075-f58f-4e21-8b1f-3e441c157f8b)
-
 Welcome to the Clarylisk frontend repository! This guide will help you set up and run the Clarylisk application locally for development.
 
 ## ✨ Features
