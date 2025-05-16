@@ -52,8 +52,8 @@ When creators receive donations with gambling promotions, they often don't know 
 5. **View Transparency** - Check creator's approve/burn history for accountability
 
 ## 🔗 Smart Contracts
-- **Contract Creator hub LISK Mainnet:** `0x478AE04E752e47c5b1F597101CeF74f01F0386e6`
-- **$IDRX contract LISK Mainnet:** `0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22`
+- **Contract Creator hub LISK Mainnet:** `0x478AE04E752e47c5b1F597101CeF74f01F0386e6` [Lisk Mainnet Explorer](https://blockscout.lisk.com/address/0x478AE04E752e47c5b1F597101CeF74f01F0386e6)
+- **$IDRX contract LISK Mainnet:** `0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22` [Lisk Mainnet Explorer](https://blockscout.lisk.com/address/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22)
 
 ## 💻 Technology Stack
 - **Frontend:** Next.js, Tailwind CSS, Shadcn UI, Wagmi, Xellarkit
