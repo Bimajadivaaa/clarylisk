@@ -26,11 +26,11 @@ Viewers and supporters have no way to verify if creators are actually rejecting 
 When creators receive donations with gambling promotions, they often don't know what to do with the funds. Clarylisk's burn feature allows creators to publicly reject these donations through verifiable blockchain transactions.
 
 ## 🔗 Links
-- **Website:** [https://clarylisk.netlify.app/](https://clarylisk.netlify.app/)
-- **Documentation:** [https://bimajdiva.gitbook.io/clarylisk](https://bimajdiva.gitbook.io/clarylisk)
-- **Organization:** [Coming Soon]
-- **Video Demonstration:** [Coming Soon]
-- **Presentation Slides:** [Coming Soon]
+- **Website:** [Demo Website](https://clarylisk.netlify.app/)
+- **Documentation:** [Gitbook](https://bimajdiva.gitbook.io/clarylisk)
+- **Organization:** [Organization](https://github.com/Clarylisk)
+- **Video Demonstration:** [Youtube](https://youtu.be/F6FdaTFxinw?si=dAFGkXIqLpsVhkMS)
+- **Presentation Slides:** [Canva](https://www.canva.com/design/DAGnkVMsjTg/QG36lARU5-t6X1XJq8DSPQ/edit?utm_content=DAGnkVMsjTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🔄 Flow
 
