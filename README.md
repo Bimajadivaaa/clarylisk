@@ -1,4 +1,5 @@
 # Clarylisk
+TRANSFORMING ONLINE GAMBLING DONATIONS INTO POSITIVE IMPACT THROUGH TRANSPARENT BLOCKCHAIN TECHNOLOGY
 
 ## Description
 Clarylisk is a revolutionary Web3 donation platform built to protect content creators from gambling promotion. Our platform uses advanced AI to detect and filter gambling-related content in donation messages, allowing creators to either approve legitimate donations or burn those containing harmful promotions. All transactions are transparently recorded on the blockchain for complete verification and accountability.
