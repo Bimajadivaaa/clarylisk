@@ -28,14 +28,6 @@ The Clarylisk Backend powers our Web3 donation platform with advanced AI detecti
 
 ## 🗄️ Database Schema
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1KurwPZ5nijn0efekE1CY-hqMWTnSp8Ge/view?usp=sharing" target="_blank">
-    <img src="https://i.imgur.com/YourERDiagramPreview.png" alt="ER Diagram Preview" width="500"/>
-    <br>
-    <b>Click to view full ER Diagram</b>
-  </a>
-</div>
-
 ## 🏃‍♂️ Getting Started
 
 ### Prerequisites
@@ -83,10 +75,6 @@ Get comprehensive API documentation with examples and testing capabilities.
 ```
 GET https://backend-clarylisk.vercel.app/api-docs-clarylisk/
 ```
-
-<div align="center">
-  <img src="https://i.imgur.com/YourSwaggerScreenshot.png" alt="Swagger UI" width="600"/>
-</div>
 
 ### 🤖 AI Gambling Detection
 
