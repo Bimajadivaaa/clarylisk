@@ -5,7 +5,7 @@ Transforming Online Gambling Donations into Positive Impact with Blockchain Tech
 Clarylisk is a revolutionary Web3 donation platform built to protect content creators from gambling promotion. Our platform uses advanced AI to detect and filter gambling-related content in donation messages, allowing creators to either approve legitimate donations or burn those containing harmful promotions. All transactions are transparently recorded on the blockchain for complete verification and accountability.
 
 ## 🚀 Demo
-[Live Demo](https://clarylisk.netlify.app/)
+<a href="https://clarylisk.netlify.app/" target="_blank">Live Demo</a>
 
 ## 📸 Project Screenshots
 <img width="1710" alt="image" src="https://github.com/user-attachments/assets/6f40bf8f-6253-4694-be1c-374cd2c2dfe1" />
@@ -27,11 +27,11 @@ Viewers and supporters have no way to verify if creators are actually rejecting 
 When creators receive donations with gambling promotions, they often don't know what to do with the funds. Clarylisk's burn feature allows creators to publicly reject these donations through verifiable blockchain transactions.
 
 ## 🔗 Links
-- **Website:** [Demo Website](https://clarylisk.netlify.app/)
-- **Documentation:** [Gitbook](https://bimajdiva.gitbook.io/clarylisk)
-- **Organization:** [Organization](https://github.com/Clarylisk)
-- **Video Demonstration:** [Youtube](https://youtu.be/F6FdaTFxinw?si=dAFGkXIqLpsVhkMS)
-- **Presentation Slides:** [Canva](https://www.canva.com/design/DAGnkVMsjTg/QG36lARU5-t6X1XJq8DSPQ/edit?utm_content=DAGnkVMsjTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Website:** <a href="https://clarylisk.netlify.app/" target="_blank">Demo Website</a>
+- **Documentation:** <a href="https://bimajdiva.gitbook.io/clarylisk" target="_blank">Gitbook</a>
+- **Organization:** <a href="https://github.com/Clarylisk" target="_blank">Organization</a>
+- **Video Demonstration:** <a href="https://youtu.be/F6FdaTFxinw?si=dAFGkXIqLpsVhkMS" target="_blank">Youtube</a>
+- **Presentation Slides:** <a href="https://www.canva.com/design/DAGnkVMsjTg/QG36lARU5-t6X1XJq8DSPQ/edit?utm_content=DAGnkVMsjTg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Canva</a>
 
 ## 🔄 Flow
 
@@ -52,8 +52,8 @@ When creators receive donations with gambling promotions, they often don't know 
 5. **View Transparency** - Check creator's approve/burn history for accountability
 
 ## 🔗 Smart Contracts
-- **Contract Creator hub LISK Mainnet:** `0x478AE04E752e47c5b1F597101CeF74f01F0386e6` [Lisk Mainnet Explorer](https://blockscout.lisk.com/address/0x478AE04E752e47c5b1F597101CeF74f01F0386e6)
-- **$IDRX contract LISK Mainnet:** `0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22` [Lisk Mainnet Explorer](https://blockscout.lisk.com/address/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22)
+- **Contract Creator hub LISK Mainnet:** `0x478AE04E752e47c5b1F597101CeF74f01F0386e6` <a href="https://blockscout.lisk.com/address/0x478AE04E752e47c5b1F597101CeF74f01F0386e6" target="_blank">Lisk Mainnet Explorer</a>
+- **$IDRX contract LISK Mainnet:** `0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22` <a href="https://blockscout.lisk.com/address/0x18Bc5bcC660cf2B9cE3cd51a404aFe1a0cBD3C22" target="_blank">Lisk Mainnet Explorer</a>
 
 ## 💻 Technology Stack
 - **Frontend:** Next.js, Tailwind CSS, Shadcn UI, Wagmi, Xellarkit
