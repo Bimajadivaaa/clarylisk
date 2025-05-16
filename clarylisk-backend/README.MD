@@ -1,7 +1,6 @@
 # 🚀 Clarylisk Backend API
 
 <div align="center">
-  <img src="https://i.imgur.com/YourLogoHere.png" alt="Clarylisk Logo" width="200"/>
   <br>
   <h3>AI-Powered Donation Protection for Content Creators</h3>
   
